@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Banco - Pagamento</title>
+    <link rel="stylesheet" href="pagamento.css" />
+</head>
+<body>
+    <div id="conteudo">
+
+        <img id="logo" src="../Imagens/logo.png">
+
+        <h3>Pagamento</h3>
+
+        <div id="inputs">
+        <form action="javascript:void(0);" method="POST" onsubmit="operacao()">
+            <input type="text" id="numeroCartao" placeholder="Numero Cartão">
+            <input type="text" id="validade" placeholder="Validade">
+            <input type="text" id="CVV" placeholder="CVV">
+            <input type="text" id="nome" placeholder="Nome">
+            <input type="text" id="senha" placeholder="Senha">
+            <input type="text" id="valor" placeholder="Valor">
+            <input class="inpt-dest" type="text" id="agenciaDestino" placeholder="Agência do Destinatário">
+            <input class="inpt-dest" type="text" id="contaDestino" placeholder="Conta do Destinatário">
+            <input class="inpt-dest" type="text" id="CPFDestinatario" placeholder="CPF do Destinatário">
+            <br>
+            <input id="btn" type="submit" value="Pagar">
+        </form>
+        </div>
+
+        <div id="sucesso">
+            <h4>Transferência realizada com sucesso no valor de:</h4>
+            <h4 id='valorTransferencia'></h4>
+        </div>
+        <div id="saldoInsuficiente">
+            <h4>Saldo insuficiente</h4>
+        </div>
+        <div id="limiteInsuficiente">
+            <h4>Limite insuficiente</h4>
+        </div>
+        <div id="falha">
+            <h4 id="erro"></h4>
+        </div>
+        <div id="dadosErrados">
+            <h4>Algum dado da conta foi preenchido incorretamente</h4>
+        </div>
+        <div id="camposVazios">
+            <h4>Preencha os campos com os dados da conta e o valor que deseja buscar</h4>
+        </div>
+    </div>
+    <div id="menu">
+        <a href="/home/">Voltar ao menu principal</a>
+    </div>
+    <script src="pagamento.js" asp-append-version="true"></script>
+</body>
+</html>

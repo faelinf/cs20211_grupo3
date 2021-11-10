@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Banco - Extrato</title>
+    <link rel="stylesheet" href="extrato.css" />
+</head>
+<body>
+
+    <div id="conteudo">
+
+        <img id="logo" src="../Imagens/logo.png">
+
+        <h3>Consulta Extrato</h3>
+        <div id="titulos">
+        </div>
+        <div id="inputs">
+            <form action="javascript:void(0);" method="POST" onsubmit="buscaSaldo()">
+                <input id="btn" type="submit" value="Ver Extrato">
+            </form>
+        </div>
+
+        <div id="transacoesForm">
+            <h3>Extrato:</h3>
+            <h4 id="transacoes"></h4>
+        </div>
+        <div id="erroDiv">
+            <h4 id="erro"></h4>
+        </div>
+        <div id="dadosInvalido">
+            <h4>Usuário não encontrado</h4>
+        </div>
+        <div id="transacaoesNaoEncontradas">
+            <h4>Transações não encontradas</h4>
+        </div>
+        <div id="camposVazios">
+            <h4>Preencha os campos com os valores da conta que deseja buscar</h4>
+        </div>
+    </div>
+    <div id="menu">
+        <a href="/home/">Voltar ao menu principal</a>
+    </div>
+    <script src="extrato.js" asp-append-version="true"></script>
+</body>
+</html>

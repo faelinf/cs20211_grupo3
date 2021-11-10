@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css" />
+</head>
+<body>
+    <div id="conteudo">
+        <img id="logo" src="../Imagens/logo.png">
+
+        <h3>Login</h3>
+        <div id="titulos">
+            <p>Agência:</p>
+            <p>Conta:</p>
+            <p>Senha:</p>
+        </div>
+        <div id="inputs">
+            <form action="javascript:void(0);" method="POST" onsubmit="login()">
+                <input type="text" id="agencia" placeholder="Agencia">
+                <input type="text" id="conta" placeholder="Conta">
+                <input type="text" id="senha" placeholder="Senha">
+                <input id="btn" type="submit" value="Entrar">
+            </form>
+        </div>
+        <div id="erroDiv">
+            <h3 id="erro"></h3>
+        </div>
+    </div>
+    <script src="login.js" asp-append-version="true"></script>
+</body>
+</html>

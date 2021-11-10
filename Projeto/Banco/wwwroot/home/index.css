@@ -1,0 +1,94 @@
+input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 25px;
+}
+
+#header {
+    width: 100%;
+    background: #365fd1;
+    width: 1700px;
+    margin: auto;
+}
+
+.logo{
+    margin-top: 30px;
+}
+
+nav {
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+}
+
+a:hover {
+    color: black;
+}
+
+li{
+    padding: 4px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+h3 {
+    margin: auto;
+    color: orange;
+    font-weight: bold;
+    font-size: 28px;
+    padding-left: 50px;
+}
+
+header{
+    display: flex;
+    width: 1050px;
+    margin: 0px auto;
+}
+
+header a.logo{
+    padding: 20px;
+    display: inline-flex;
+    align-items: center;
+}
+
+#saldoForm {
+    display: none;
+}
+
+#saldoInvalido {
+    display: none;
+}
+
+#camposVazios {
+    display: none;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8f8f8;
+    padding: 5px;
+}
+
+td {
+    border: 1px solid;
+    padding: 5px;
+}

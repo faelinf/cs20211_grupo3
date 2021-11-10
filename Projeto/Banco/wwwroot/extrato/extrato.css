@@ -1,0 +1,119 @@
+input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+*{
+    margin: 0px;
+}
+
+#conteudo {
+    margin-left: 25%;
+    margin-top: 100px;
+    height: 700px;
+    width: 50%;
+    background-color: #00ffff;
+    box-shadow: 2px 2px 2px black;
+}
+
+#p-agencia {
+    padding-left: 17px;
+}
+
+#logo {
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    margin: auto;
+    text-align: center;
+    font-size: 28px;
+    padding-top: 23px;
+}
+
+h4 {
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 5px;
+}
+
+p {
+    display: inline-block;
+    padding-right: 109px;
+    font-weight: bold;
+}
+
+#btn {
+    margin-left: 45%;
+    font-weight: bold;
+    color: black;
+    background-color: orange;
+}
+
+    #btn:hover {
+        background-color: white;
+    }
+
+#menu {
+    margin: 20px;
+    text-align: center;
+}
+
+#menu a {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    color: orange;
+}
+
+#inputs {
+    padding-left: 40px;
+}
+
+#titulos {
+    padding-left: 24px;
+    color: orangered;
+    font-size: 20px;
+}
+
+#transacoesForm {
+    display: none;
+}
+
+#dadosInvalido {
+    display: none;
+}
+
+#erroDiv {
+    display: none;
+}
+
+#camposVazios {
+    display: none;
+}
+
+#transacaoesNaoEncontradas {
+    display: none;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8f8f8;
+    padding: 5px;
+}
+
+td {
+    border: 1px solid;
+    padding: 5px;
+}

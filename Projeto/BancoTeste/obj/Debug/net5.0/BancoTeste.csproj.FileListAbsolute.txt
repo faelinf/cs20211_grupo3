@@ -1,0 +1,99 @@
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.deps.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\testhost.exe
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\testhost.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net461\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net461\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net462\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net462\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net46\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net46\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net471\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net471\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net472\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net472\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net47\xunit.console.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net47\xunit.console.x86.exe.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp1.0\xunit.console.dll.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp2.0\xunit.console.dll.config
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp1.0\xunit.console.deps.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp1.0\xunit.console.runtimeconfig.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp2.0\xunit.console.deps.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp2.0\xunit.console.runtimeconfig.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.exe
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.deps.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.runtimeconfig.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.runtimeconfig.dev.json
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\ref\BancoTeste.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.pdb
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.pdb
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.csproj.AssemblyReference.cache
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.AssemblyInfoInputs.cache
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.AssemblyInfo.cs
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\ref\BancoTeste.dll
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.pdb
+C:\Users\Felipe\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.genruntimeconfig.cache
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\testhost.exe
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\testhost.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net452\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net461\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net461\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net462\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net462\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net46\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net46\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net471\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net471\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net472\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net472\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net47\xunit.console.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\net47\xunit.console.x86.exe.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp1.0\xunit.console.dll.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp2.0\xunit.console.dll.config
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\appsettings.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp1.0\xunit.console.deps.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp1.0\xunit.console.runtimeconfig.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp2.0\xunit.console.deps.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\packages\xunit.runner.console.2.4.1\tools\netcoreapp2.0\xunit.console.runtimeconfig.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.deps.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.exe
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.deps.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.runtimeconfig.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.runtimeconfig.dev.json
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\ref\BancoTeste.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\BancoTeste.pdb
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\bin\Debug\net5.0\Banco.pdb
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.csproj.AssemblyReference.cache
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.AssemblyInfoInputs.cache
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.AssemblyInfo.cs
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.csproj.CoreCompileInputs.cache
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.csproj.CopyComplete
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\ref\BancoTeste.dll
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.pdb
+C:\Users\samir\Documents\Estudos\Construção de Software\CS_Trabalho\cs20211_g3\Projeto\BancoTeste\obj\Debug\net5.0\BancoTeste.genruntimeconfig.cache

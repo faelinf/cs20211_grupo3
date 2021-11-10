@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Banco - Depósito</title>
+    <link rel="stylesheet" href="deposito.css" />
+</head>
+
+<body>
+    <div id="conteudo">
+        <img id="logo" src="../Imagens/logo.png">
+
+        <h3>Depósito</h3>
+        <form action="javascript:void(0);" method="POST" onsubmit="operacao()">
+            <div id='titulos'>
+                <p>Valor:</p>
+            </div>
+            <div id='inputs'>
+                <input type="text" id="valor" placeholder="Valor">
+                <input id="btn" type="submit" value="Depositar">
+            </div>
+        </form>
+
+        <div id="sucesso">
+            <h4>Depósito realizado com sucesso no valor de:</h4>
+            <h4 id='valorDeposito'></h4>
+        </div>
+        <div id="falha">
+            <h4 id="erro"></h4>
+        </div>
+        <div id="dadosErrados">
+            <h4>Algum dado da conta foi preenchido incorretamente</h4>
+        </div>
+        <div id="camposVazios">
+            <h4>Preencha os campos com os dados da conta e o valor que deseja buscar</h4>
+        </div>
+    </div>
+    <div id="menu">
+        <a href="/home/">Voltar ao menu principal</a>
+    </div>
+    <script src="deposito.js" asp-append-version="true"></script>
+</body>
+
+</html>

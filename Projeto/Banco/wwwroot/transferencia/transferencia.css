@@ -1,0 +1,111 @@
+input[type='submit'], button, [aria-label] {
+    cursor: pointer;
+}
+
+#conteudo {
+    margin-left: 25%;
+    margin-top: 100px;
+    height: 450px;
+    width: 50%;
+    background-color: #00ffff;
+    box-shadow: 2px 2px 2px black;
+}
+
+#logo {
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    margin: auto;
+    text-align: center;
+    font-size: 28px;
+}
+
+h4 {
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+p {
+    display: inline-block;
+    padding-right: 120px;
+    font-weight: bold;
+}
+
+#btn {
+    font-weight: bold;
+    color: black;
+    background-color: orange;
+    margin-left: 392px;
+    width: 100px;
+}
+
+#btn:hover {
+    background-color: white;
+}
+
+#menu {
+    margin: 20px;
+    text-align: center;
+}
+
+#menu a {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    color: orange;
+}
+
+#inputs {
+    padding-left: 40px;
+}
+
+#titulos {
+    padding-left: 24px;
+    color: orangered;
+    font-size: 20px;
+}
+
+#sucesso {
+    display: none;
+}
+
+#saldoInsuficiente {
+    display: none;
+}
+
+#falha {
+    display: none;
+}
+
+#camposVazios {
+    display: none;
+}
+
+#dadosErrados {
+    display: none;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8f8f8;
+    padding: 5px;
+}
+
+td {
+    border: 1px solid;
+    padding: 5px;
+}

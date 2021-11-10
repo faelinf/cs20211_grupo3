@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Auvo\\Downloads\\cs20211_g3-felipe\\cs20211_g3-felipe\\Projeto\\Banco\\Banco.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "Banco",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

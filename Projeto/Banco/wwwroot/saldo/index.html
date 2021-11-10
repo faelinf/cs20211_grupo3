@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Banco - Saldo</title>
+    <link rel="stylesheet" href="saldo.css" />
+</head>
+<body>
+    <div id="conteudo">
+        <img id="logo" src="../Imagens/logo.png">
+
+        <h3>Consulta Saldo</h3>
+        <div id="inputs">
+            <form action="javascript:void(0);" method="POST" onsubmit="buscaSaldo()">
+                <input id="btn" type="submit" value="Consultar">
+            </form>
+        </div>
+
+        <div id="saldoForm">
+            <h4>Saldo:</h4>
+            <h4 id="valorSaldo"></h4>
+        </div>
+        <div id="erroDiv">
+            <h4 id="erro"></h4>
+        </div>
+        <div id="saldoInvalido">
+            <h4>Usuário não encontrado</h4>
+        </div>
+        <div id="camposVazios">
+            <h4>Preencha os campos com os valores da conta que deseja buscar</h4>
+        </div>
+    </div>
+    <div id="menu">
+        <a href="/home/">Voltar ao menu principal</a>
+    </div>
+    <script src="saldo.js" asp-append-version="true"></script>
+</body>
+</html>
